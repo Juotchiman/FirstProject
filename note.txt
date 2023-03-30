@@ -1,0 +1,35 @@
+ <!--<h1 class="text-danger text-center bg-dark border border-danger p-5 w-100 position-absolute top-50">Welcome To Bootstrap!!</h1>-->
+
+    <h1 class="text-danger text-center bg-dark border border-danger">Welcome To Bootstrap!!</h1>
+    
+    <button class="position-sticky top-0 d-block">click</button>
+
+    <p class="display-1 fst-italic d-inline"></p>
+
+
+    <nav class="d-flex justify-content-between">
+        <a href="">Logo</a>
+
+        <ul>
+            <li><a href="">Home</a></li>
+            <li><a href="">About</a></li>
+        </ul>
+    </nav>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md-4 bg-danger">1</div>
+            <div class="col-12 col-md-4 bg-success">2</div>
+            <div class="col-12 col-md-4 bg-warning">3</div>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+        <div class="row">
+            <img class="col-4" src="/images/7de4baa95edf7521f460fa6147a2f8ee.png" alt="">
+            <img class="col-4" src="/images/john-fowler-7Ym9rpYtSdA-unsplash.jpg" alt="">
+            <img class="col-4" src="/images/vincentiu-solomon-ln5drpv_ImI-unsplash (1).jpg" alt="">
+        </div>
+    </div>

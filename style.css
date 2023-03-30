@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar navbar-expand-lg{
+    background-color: grey;
+    color: green;
+}
+.carousel-inner img{
+    height: 75vh;
+    object-fit: fill;
+}
